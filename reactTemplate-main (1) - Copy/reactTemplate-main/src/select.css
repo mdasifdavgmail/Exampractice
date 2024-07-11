@@ -1,0 +1,16 @@
+.s1 {
+   
+    width: fit-content;
+    height: fit-content;
+    border: 2px solid salmon;
+    border-radius: 3px;
+   
+    margin: 5px 0; 
+   
+}
+.s2{
+    display: flex;
+    align-items: center;
+    padding: 12px;
+}
+
