@@ -5,7 +5,7 @@ const Include = () => {
     const [input, setInput] = useState('');
 
     const [input1, setInput1] = useState('');
-    const [value, setValue] = useState([]); // Ensure this is an array, not a string
+    const [value, setValue] = useState([]); 
 
     const addWord = () => {
         if (input.trim()) {
