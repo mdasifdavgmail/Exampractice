@@ -41,7 +41,7 @@ const Selected = () => {
                     <input
                         type="radio"
                         name="word"
-                        value={word}
+                     
                         checked={selectedWord === word}
                         onChange={() => handleRadioChange(word)}
                     />

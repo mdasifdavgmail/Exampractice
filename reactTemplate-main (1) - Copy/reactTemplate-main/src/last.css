@@ -1,0 +1,12 @@
+.s2 {
+    display: grid;
+ 
+   
+    color: black;
+    grid-template-columns: repeat(3, 1fr); 
+}
+button h2{
+    width: 2rem;
+    height: 2rem;
+    background-color: antiquewhite;
+}
